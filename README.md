@@ -14,7 +14,7 @@
 
 - 📘 Let's say I'm a systems engineering student, and I'm not dying trying to be one...
 - 🎮 I also play as a pro player in Fortnite.
-- 📫 How to reach me **marioyancor11@gmail.com 
+- 📫 How to reach me marioyancor11@gmail.com 
 - ⚡ Fun fact :- I mix **technology and creativity** (💻🎨 NeoArt – epoxy resin & neon light artworks).  
 
 <br>
