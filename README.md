@@ -12,27 +12,20 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mario Yancor" /></p>
 
-- 🌱 I’m currently learning **Web Development, Java, Spring Boot, Angular, Laravel and Databases**  
-- 📘 Interested in **Modeling, Simulation and Software Development projects**  
-- 📫 How to reach me **marioyancor11@gmail.com**  
+- 📘 Let's say I'm a systems engineering student, and I'm not dying trying to be one...**  
+- 📫 How to reach me **mario.yancor@cunoc.edu.gt**  
 - ⚡ Fun fact :- I mix **technology and creativity** (💻🎨 NeoArt – epoxy resin & neon light artworks).  
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="blank"><img align="center"
+  <a href="https://instagram.com/marioyancor_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/" target="blank"><img align="center"
+      alt="marioyancor_" height="30" width="40" /></a>
+  <a href="https://twitter.com/marioyancor_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter" height="30" width="40" /></a>
+      alt="marioyancor_" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -80,3 +73,4 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaYan711&theme=dark&background=0d1117&date_format=M%20j%5B,%20Y%5D" alt="MaYan711" /></p>
+
