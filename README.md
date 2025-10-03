@@ -12,10 +12,10 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Mario Yancor" /></p>
 
-- 📘 Let's say I'm a systems engineering student, and I'm not dying trying to be one...
-- 🎮 I also play as a pro player in Fortnite.
+- 📘 Let's say I'm a systems engineering student, and I'm not dying trying to be one
+- 🎮 I also play as a pro player in Fort
 - 📫 How to reach me marioyancor11@gmail.com 
-- ⚡ Fun fact :- I mix **technology and creativity** (💻🎨 NeoArt – epoxy resin & neon light artworks).  
+- ⚡ Fun fact :- I mix **technology and creativity** (💻🎨 NeoArt – epoxy resin & neon light artworks)
 
 <br>
 
